@@ -1,4 +1,7 @@
 *
+@-ms-viewport{
+  width: device-width;
+}
 @import url("https://fonts.googleapis.com/css?family=Luckiest+Guy&display=swap");
 {
 margin: 0;
